@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClockCustomView</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clock_custom_view">Clock Custom View</string>
+    <string name="Clock">Часы</string>
+    <string name="first_example">Первый пример</string>
+    <string name="second_example">Второй пример</string>
+    <string name="last_st_completion">Предыдущее просыпание - 8:30</string>
+    <string name="test_st_explanation"><b>Sleep Tracker</b> – это приложение отслеживает сон. \nТут вы можете отследить когда вы проснулись в предыдущий раз и посчитать сколько в итоге вы спали. \nРекомендуем отслеживать сон ежедневно и ставить галочку, как только проснетесь.</string>
+    <string name="main_menu_run_st">Я проснулся</string>
+    <string name="fullscreen_clock">Часы на весь экран</string>
+    <string name="clock_usage_example">Пример использования часов</string>
+    <string name="fullscreen">На весь экран</string>
+    <string name="usage">Использование</string>
+</resources>
